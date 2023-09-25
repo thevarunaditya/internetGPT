@@ -1,0 +1,13 @@
+DISCLAIMER: ONLY PUT THE FOLLOWING MODELS IN PLACE OF THE model="" IN LINE 82
+
+gpt-4
+If you want hella good answers, and are willing to spend a few cents extra, best if you want accurate answers (I recommend this one).
+
+gpt-4-32k
+If you want to give it more context (but I wouldn't recommend as it isn't worth it for most people)
+
+gpt-3.5-turbo
+If you want to use it a lot, but not spend a hell a lot of money on it, use this .
+
+gpt-3.5-turbo-16k
+If you want to give it more context (but most people probably don't need this).
