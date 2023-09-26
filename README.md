@@ -19,6 +19,7 @@ node server.js
 
 OpenAI API Key: https://platform.openai.com/account/api-keys
 
+
 CustomSearch Google Api: https://console.cloud.google.com/apis/library/customsearch.googleapis.com
 
 Google Programmable Search Engine: https://programmablesearchengine.google.com/controlpanel/all
