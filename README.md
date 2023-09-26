@@ -15,5 +15,10 @@ node server.js
 ```
 
 `4.` Open your browser, and go to the link it tells you to go to. There you go, its easy as that!
+# Useful links
+
+OpenAI API Key: https://platform.openai.com/account/api-keys
+CustomSearch Google Api: https://console.cloud.google.com/apis/library/customsearch.googleapis.com
+Google Programmable Search Engine: https://programmablesearchengine.google.com/controlpanel/all
 # Help
 If you need help/want to request a feature, join my discord server: https://discord.gg/rqjE7yvtZw
