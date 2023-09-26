@@ -18,7 +18,9 @@ node server.js
 # Useful links
 
 OpenAI API Key: https://platform.openai.com/account/api-keys
+
 CustomSearch Google Api: https://console.cloud.google.com/apis/library/customsearch.googleapis.com
+
 Google Programmable Search Engine: https://programmablesearchengine.google.com/controlpanel/all
 # Help
 If you need help/want to request a feature, join my discord server: https://discord.gg/rqjE7yvtZw
