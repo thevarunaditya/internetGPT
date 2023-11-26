@@ -6,7 +6,7 @@ The steps are moderately easy. You might need a bit of coding experience, but it
 
 `1.` Click the green **<> Code** button, and click **Download ZIP**. Then unzip the zip that downloads, and you will be left with a folder named **internetGPT-main** (or something like that).
 
-`2.` **To make the following steps easier, watch my [YouTube video](https://youtu.be/B7D-8Rp0QgQ).** Open script.py, and (1) replace "apikey" in line 4 with your openai api key. (2) Then, also go to the link commented in line 9 and get customsearch credentials. (3) Finally, go to the link commented in line 17, and get a search engine id.
+`2.` **To make the following steps easier, watch my [YouTube video](https://youtu.be/XMS6_FT70sQ).** Open script.py, and (1) replace "apikey" in line 4 with your openai api key. (2) Then, also go to the link commented in line 9 and get customsearch credentials. (3) Finally, go to the link commented in line 17, and get a search engine id.
 
 `3.` Open terminal, and enter the following lines (1 line at a time):
 ```
